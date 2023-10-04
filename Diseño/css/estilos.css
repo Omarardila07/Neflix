@@ -1,0 +1,73 @@
+body{ 
+    background-color: black; 
+} 
+
+.todo {
+    background-color: black;
+}
+ 
+h1 { 
+    color: white; 
+    text-align: center; 
+    font-family: Poppins; 
+    font-size: 70px; 
+    font-style: normal; 
+    font-weight: 700; 
+    line-height: normal; 
+    padding-top: 100px;
+} 
+ 
+h2 { 
+    color: #D42F26; 
+    text-align: center; 
+    font-family: Poppins; 
+    font-size: 20px; 
+    font-style: normal; 
+    font-weight: 500; 
+    line-height: normal; 
+} 
+ 
+.imagen1 { 
+    width: 200px; 
+} 
+ 
+#mensajes {
+    text-align: center;
+    padding-top: 30px;
+
+}
+
+.imagen { 
+    display: flex; 
+    justify-content: center; 
+    
+} 
+ 
+.input { 
+    display: flex; 
+    justify-content: center;
+    padding-top: 20px;
+}
+ 
+.botons { 
+    padding-top: 5px; 
+}
+
+h5{
+    color: white;
+    text-align: center;
+}
+
+span{
+    color: red;
+}
+.boton {
+    padding-top: 30px;
+}
+
+.img1 {
+    position: absolute;
+    padding-left: -26px;
+    padding-top: 25px;
+    margin: 1px -3px 0px -13px;
+}
